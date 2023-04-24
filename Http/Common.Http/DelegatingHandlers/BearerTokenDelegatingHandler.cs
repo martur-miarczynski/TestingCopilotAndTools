@@ -20,6 +20,10 @@ public class BearerTokenDelegatingHandler<TApiConfiguration, TAuthenticationResu
     protected virtual async Task<string> GenerateBearerToken(CancellationToken cancellationToken)
     {
         var tokenResponse = await _authenticationContext.AcquireTokenAsync(cancellationToken);
+        if (tokenResponse is null)
+        {
+            throw new HttpRequestException("Token is null");
+        }
         return tokenResponse.AccessToken;
     }
 

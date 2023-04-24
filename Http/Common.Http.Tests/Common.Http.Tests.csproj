@@ -10,6 +10,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<PackageReference Include="NSubstitute" Version="5.0.0" />
 		<PackageReference Include="xunit.runner.visualstudio" Version="*">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
