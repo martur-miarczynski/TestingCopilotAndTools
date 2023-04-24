@@ -1,0 +1,12 @@
+C:\TestingCopilotAndTools\Http\Common.Http\bin\Debug\net6.0\Common.Http.deps.json
+C:\TestingCopilotAndTools\Http\Common.Http\bin\Debug\net6.0\Common.Http.dll
+C:\TestingCopilotAndTools\Http\Common.Http\bin\Debug\net6.0\Common.Http.pdb
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.csproj.AssemblyReference.cache
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.AssemblyInfoInputs.cache
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.AssemblyInfo.cs
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.csproj.CoreCompileInputs.cache
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.dll
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\refint\Common.Http.dll
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\Common.Http.pdb
+C:\TestingCopilotAndTools\Http\Common.Http\obj\Debug\net6.0\ref\Common.Http.dll
